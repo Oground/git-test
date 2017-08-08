@@ -1,8 +1,8 @@
 package jp.co.rakus.git_test;
 
 /**
- * Hello world!
- *
+ * test
+ * 
  */
 public class App 
 {
