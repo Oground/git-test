@@ -1,14 +1,14 @@
 package jp.co.rakus.git_test;
 
 public class Test {
-	private String name;
+	private String testName;
 
 	public String getName() {
-		return name;
+		return testName;
 	}
 
 	public void setName(String name) {
-		this.name = name;
+		this.testName = name;
 	}
 	
 }
